@@ -2,7 +2,7 @@
 # Design programme to determine the award a person competing in the triathlon will receive
 
 # Creating the variables & requesting user input
-QUALIFYING_TIME = 100
+QUALIFYING_TIME = 90
 
 name = input("Please enter your first name: ")
 swimming_time = int(input("Please enter your swimming time in minutes: "))
